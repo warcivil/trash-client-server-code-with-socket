@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  SoccetServer.cpp
+C:\Users\pixte\OneDrive\Рабочий стол\socket\SoccetServer\SoccetServer\SoccetServer.cpp(26,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pixte\OneDrive\Рабочий стол\socket\SoccetServer\SoccetServer\SoccetServer.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+  SoccetServer.vcxproj -> C:\Users\pixte\OneDrive\Рабочий стол\socket\SoccetServer\Debug\SoccetServer.exe
